@@ -1,0 +1,32 @@
+{
+  "name": "doloremqueodit",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EulaBoyle/doloremqueodit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EulaBoyle/doloremqueodit.git/issues"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "tags": [
+    "typescript"
+  ],
+  "author": "ImeldaBauch",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^21.1.9",
+    "jest": "^22.0.4",
+    "rimraf": "^2.6.2",
+    "ts-jest": "^22.0.0",
+    "ts-object": "^0.1.1",
+    "typescript": "^2.6.2"
+  }
+}
